@@ -19,7 +19,7 @@
   
   /* Header */
   header {
-    background-color: #333;
+    background-color: #291a1a;
     color: white;
     padding: 30px 0;
     text-align: center;
@@ -43,14 +43,15 @@
   .profile-img {
     width: 150px;
     height: 150px;
-    border-radius: 50%;
+    /* border-radius: 50%; */
     object-fit: cover;
     margin-bottom: 20px;
   }
   
   .profile h2 {
     font-size: 2em;
-    margin-bottom: 10px;
+    margin-bottom: 70px;
+    /* font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; */
   }
   
   .profile p {
